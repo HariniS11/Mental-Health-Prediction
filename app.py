@@ -6,7 +6,7 @@ import torch.nn as nn
 import numpy as np
 
 # Label encoders
-with open("Work_Study_le.pkl", "rb") as f:
+with open("Work_study_le.pkl", "rb") as f:
     le_work_study = pickle.load(f)
 
 with open("Sleep_Duration_le.pkl", "rb") as f:
