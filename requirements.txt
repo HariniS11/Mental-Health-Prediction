@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scipy
+scikit-learn
+category_encoders
+imbalanced-learn
+torch
+torchvision
+tqdm
+matplotlib
+seaborn
